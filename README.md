@@ -1,0 +1,2 @@
+# python_repository
+这是存放Python开发的代码的仓库
